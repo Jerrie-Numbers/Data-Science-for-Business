@@ -1,5 +1,5 @@
 # Data-Science-for-Business
-Data Science for Business Analysis Projects is a project-based courses on Udemy.
+<strong>Data Science for Business Analysis Projects</strong> is a project-based courses on Udemy.
 
 
 This course will apply data science techniques to solve real world business tasks in (1) Human Resources, (2) Marketing, (3) Sales, (4) Operations, (5) Public Relations. 
