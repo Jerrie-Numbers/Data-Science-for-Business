@@ -1,10 +1,14 @@
 # Data Science for Business Projects
+## Summary
 <strong>Data Science for Business Analysis Projects</strong> is a project-based courses on Udemy.
 
 
 This course will apply data science techniques to solve real world business tasks in (1) Human Resources, (2) Marketing, (3) Sales, (4) Operations, (5) Public Relations. 
 
 <strong>Toolbox: Python, Scikit Learn, Matplotlib, Seaborn, Tensorflow, NLTK</strong>
+
+## Projects
+
 
 <strong>Task #1 @Human Resources Department</strong>
 
@@ -17,7 +21,7 @@ Develop an AI model to Reduce hiring and training costs of employees by predicti
 - Train a Logistic regression and random forest classifiers using Scikit Learn 
 - Evaluate classification models and present results using confusion matrix and classification reports
 
-
+---
 
 <strong>Task #2 @Marketing Department</strong>
 
@@ -29,6 +33,7 @@ Optimize marketing strategy by performing customer segmentation.
 - Apply K means algorithm in Scikit learn to perform market segmentation
 - Apply PCA and Autoencoders to perform dimensionality reduction
 
+---
 <strong>Task #3 @Sales Department</strong>
 
 The goal is to predict future daily sales based on historical collected data from 1115 stores.
@@ -38,6 +43,7 @@ Develop time series forecasting models to predict future product prices.
 - Implement Time series forecasting models
 - Apply Facebook prophet to predict future sales
 
+---
 <strong>Task #4 @Operations Department</strong>
 
 The goal is to use X-ray chest images to classify diseases, including Normal, Covid-19, Viral Pneumonia,Bacterial Pneumonia.
@@ -48,7 +54,7 @@ Develop Deep Learning model to automate and optimize the disease detection proce
 - Train resnets to perform image classification using images datasets
 - Evaluate trained resnent networks on testing data
 
-
+---
 <strong>Task #5 @Public Relations Department</strong>
 
 The goal is to predict if customers are happy or not with massive number of reviews. 
